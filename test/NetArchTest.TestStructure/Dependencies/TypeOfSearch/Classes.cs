@@ -38,8 +38,9 @@
         Dependency_3 dp3;
     }
 
-    public class Class_C 
-    {      
+    public class Class_C
+    {
+        private const string NullConstant = null;
         Dependency_2 dp2;      
     }
 
